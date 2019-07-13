@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"Babel",
+		"Calculate",
+		"Case Conversion",
+		"Dockerfile Syntax Highlighting",
+		"InsertDate",
+		"JsFormat",
+		"JsPrettier",
+		"MarkdownPreview",
+		"MarkdownTOC",
+		"Material Theme",
+		"Package Control",
+		"requirementstxt",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"Text Pastry",
+		"Theme - Afterglow",
+		"Wrap Plus"
+	]
+}
